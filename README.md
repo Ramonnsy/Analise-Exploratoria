@@ -35,7 +35,6 @@ Nesta análise exploratória, os dados foram obtidos no [Kaggle](https://www.kag
 
 ## Contato
 
-**Links para me acharem:**
 * [LinkedIn](https://www.linkedin.com/in/ramonoliveira359/)
 * [Medium](https://medium.com/@ramon.oliveiraa359)
 * [GitHub](https://github.com/Ramonnsy)
