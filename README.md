@@ -6,10 +6,10 @@
 
 
 ## Objetivo 
-Essa é uma análise exploratória dos dados do *dataset* do Airbnb em Barcelona. O objetivo desta analise foi obter informações de preços, quantidade e tipo de imovel da cidade de Barcelona
+Essa é uma análise exploratória dos dados do *dataset* do Airbnb em Barcelona. O objetivo desta analise foi obter informações de preços, quantidade e tipo de imovel airbnb da cidade de Barcelona.
 
 ## Fonte dos Dados
-Nesta análise exploratória, os dados foram obtidos no [Kaggle](https://www.kaggle.com/datasets/zakariaeyoussefi/barcelona-airbnb-listings-inside-airbnb/data). Essa é uma base de dados mais resumida.
+Nesta análise exploratória, os dados foram obtidos no [Kaggle](https://www.kaggle.com/datasets/zakariaeyoussefi/barcelona-airbnb-listings-inside-airbnb/data). E ela é uma base de dados mais resumida.
 
 ## Ferramentas utilizadas
 <p align="left">  
@@ -21,15 +21,15 @@ Nesta análise exploratória, os dados foram obtidos no [Kaggle](https://www.kag
 
 ## Alguns insights do projeto
 
-### Quantidades de Airbnb por distrito de Barcelona
+### Quantidades de Airbnb por distrito de Barcelona.
 
 <img src="https://github.com/user-attachments/assets/7b5e7213-fc74-4c6d-adb8-a4a82759e50a" alt="Quantidades de Airbnb por distrito de Barcelona" width="800"/>
 
-### Média de preço por tipo de imóvel
+### Média de preço por tipo de imóvel.
 
 <img src="https://github.com/user-attachments/assets/76eacdef-d28c-4d54-aa7c-6f7a861b13ab" alt="Média de preço por tipo de imóvel" width="800"/>
 
-### Mapa de calor dos preços por latitude e longitude
+### Mapa de calor dos preços por latitude e longitude.
 
 <img src="https://github.com/user-attachments/assets/cbd3c9b2-685c-42bb-9a4e-8df899e44ef8" alt="Mapa de calor dos preços por latitude e longitude" width="800"/>
 
