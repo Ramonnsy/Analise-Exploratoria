@@ -1,6 +1,6 @@
 # Análise de Dados do Airbnb - Barcelona
 <p align="center">
-  <img alt="Kauaʻi Island" width="70%" src="https://www.segueviagem.com.br/wp-content/uploads/2020/11/shutterstock_Cr%C3%A9dito-editorial-TTstudio-Shutterstock.com-1.jpg">
+  <img alt="Barcelona" width="70%" src="https://www.segueviagem.com.br/wp-content/uploads/2020/11/shutterstock_Cr%C3%A9dito-editorial-TTstudio-Shutterstock.com-1.jpg">
 </p>
 
 
