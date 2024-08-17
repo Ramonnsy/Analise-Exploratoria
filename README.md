@@ -8,6 +8,9 @@
 ## Objetivo 
 Essa é uma análise exploratória dos dados do *dataset* do Airbnb em Barcelona. O objetivo desta analise foi obter informações de preços, quantidade e tipo de imovel airbnb da cidade de Barcelona.
 
+## Projeto
+Caso queira ver o projeto mais detalhado entre nesse link: [Medium](https://medium.com/@ramon.oliveiraa359/an%C3%A1lise-de-dados-airbnb-barcelona-20811cc86eaa)
+
 ## Fonte dos Dados
 Nesta análise exploratória, os dados foram obtidos no [Kaggle](https://www.kaggle.com/datasets/zakariaeyoussefi/barcelona-airbnb-listings-inside-airbnb/data). E ela é uma base de dados mais resumida.
 
